@@ -9,5 +9,13 @@ int c = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Add Second nummber");
 int d = Convert.ToInt32(Console.ReadLine());
 int subresult = c - d;
-Console.WriteLine("Result"-subresult);
+Console.WriteLine("Result"+subresult);
+Console.WriteLine("Add First nummber");
+int e = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Add Second nummber");
+int f = Convert.ToInt32(Console.ReadLine());
+int result = e / f
+Console.WriteLine("Result"+preresult);
+
+
 
