@@ -10,4 +10,9 @@ Console.WriteLine("Add Second nummber");
 int d = Convert.ToInt32(Console.ReadLine());
 int subresult = c - d;
 Console.WriteLine("Result"-subresult);
-
+Console.WriteLine("Add First nummber");
+int g = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Add Second nummber");
+int h = Convert.ToInt32(Console.ReadLine());
+int multiresult = g * h
+Console.WriteLine("Result"+multiresult);
