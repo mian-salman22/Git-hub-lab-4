@@ -4,3 +4,10 @@ Console.WriteLine("Add Second nummber");
 int b = Convert.ToInt32(Console.ReadLine());
 int result = a + b
 Console.WriteLine("Result"+result);
+Console.WriteLine("Add First nummber");
+int c = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Add Second nummber");
+int d = Convert.ToInt32(Console.ReadLine());
+int subresult = c - d;
+Console.WriteLine("Result"-subresult);
+
